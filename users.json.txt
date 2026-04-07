@@ -1,0 +1,14 @@
+[
+  {
+    "username": "asad",
+    "password": "1234",
+    "investment": 200000,
+    "profit": 8000
+  },
+  {
+    "username": "client1",
+    "password": "1111",
+    "investment": 50000,
+    "profit": 2500
+  }
+]

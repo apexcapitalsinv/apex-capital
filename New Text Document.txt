@@ -1,0 +1,6 @@
+div class=login-box
+  h2Investor Loginh2
+  input type=text id=username placeholder=Username
+  input type=password id=password placeholder=Password
+  button onclick=login()Loginbutton
+div
